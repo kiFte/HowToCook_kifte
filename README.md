@@ -36,6 +36,7 @@
 
 ### 按难度索引
 
+- [kiFte 已学会](starsystem/learned.md)
 - [1 星难度](starsystem/1Star.md)
 - [2 星难度](starsystem/2Star.md)
 - [3 星难度](starsystem/3Star.md)
